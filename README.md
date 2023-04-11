@@ -23,9 +23,6 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>&nbsp
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lakshmisagarnr367&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lakshmisagarnr367&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakshmisagarnr367&theme=radical&hide_border=false)<br/>
